@@ -255,4 +255,9 @@ A Curated List of Blockchain and General Cryptocurrency Resources
 * [Openchain](https://www.openchain.com/)
 
 ### Other Resources
+
+### Developer Tools
+* [evmchain-config](https://github.com/harunosakura030303-maker/evmchain-config) - Universal EVM chain configuration manager for Hardhat, Foundry, viem, and ethers. Zero boilerplate multi-chain setup.
+* [hardhat-evmchain](https://github.com/harunosakura030303-maker/hardhat-evmchain) - Hardhat plugin for automatic multi-chain configuration.
+* [evmchain-cli](https://github.com/harunosakura030303-maker/evmchain-cli) - CLI tool to list, validate, and inspect EVM chain configs.
 - [Ethereum List](https://github.com/Scanate/Ethlist)
